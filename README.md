@@ -1,1 +1,3 @@
-# Blog-Management-website
+## Note
+
+node_modules must be initialized !
